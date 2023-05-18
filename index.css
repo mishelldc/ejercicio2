@@ -1,0 +1,139 @@
+.contenedor{
+    width: 428px;
+    height: 50rem;
+   background-color:#FFF(186, 173, 198);
+}
+.menu{
+    position: absolute;
+width: 37px;
+height: 33px;
+left: 42px;
+top: 31px;
+}
+.gallery{
+position: relative;
+width: 250px;
+height: 52px;
+left: 117px;
+top: 38px;
+}
+/*imagenes grandes*/
+
+.paisajeI img{
+    position: relative;
+width: 11rem;
+
+top: 3rem;
+left: 1rem;
+box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+border-radius: 1.7rem;
+}
+.paisajeC img{
+    position: relative;
+    width: 11rem;
+
+    top: -14.6rem;
+    left: 13.6rem;
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+}
+.titleI{
+    position: relative;
+width: 162px;
+height: 26px;
+left: 2rem;
+top: -19rem;
+}
+.titleC{
+    position: relative;
+width: 145px;
+height: 26px;
+left: 14.3rem;
+top: -20.5rem;
+}
+.subtiI{
+    position: relative;
+width: 120px;
+height: 22px;
+left: 34px;
+top: -21.3rem;
+}
+.subtiC{
+    position: relative;
+width: 127px;
+height: 22px;
+left: 14.3rem;
+top: -22.5rem;
+}
+/*imagenes pequeñas*/
+.paisajeI1 img{
+    position: relative;
+width: 185px;
+left: 1rem;
+top: -20rem;
+
+box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+
+}
+.paisajeI2 img{
+    position: relative;
+width: 186px;
+left: 1rem;
+top: -19rem;
+box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+}
+.titleI1{
+    position: relative;
+width: 162px;
+height: 26px;
+left: 30px;
+top: -32.1rem;
+}
+.titleI2{
+    position: relative;
+width: 162px;
+height: 26px;
+left: 30px;
+top: -23.9rem;
+}
+.subtiI1{
+    position: relative;
+width: 120px;
+height: 22px;
+left: 2.3rem;
+top: -34rem;
+}
+.subtiI2{
+    position: relative;
+width: 120px;
+height: 22px;
+left: 30px;
+top: -25.8rem;
+}
+/*otra img con pequeñas*/
+.paisajeC1 img{
+    position: relative;
+width: 11rem;
+left: 13.6rem;
+top: -43rem;
+border-radius: 3px;
+box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 1.7rem;
+}
+.titleC1 img{
+    position: relative;
+width: 145px;
+height: 26px;
+left: 14.3rem;
+top: -20.8rem;
+}
+.subtiC1 img{
+    position: relative;
+width: 127px;
+height: 22px;
+left: 14.3rem;
+top: -25.7rem;
+}
+/* signo mas*/
